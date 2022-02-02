@@ -1,0 +1,2 @@
+# YuraStoreNet
+open gaming store
